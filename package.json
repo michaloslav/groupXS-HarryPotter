@@ -1,0 +1,16 @@
+{
+  "name": "groupxp-harrypotter",
+  "version": "1.0.0",
+  "description": "The Harry Potter book cost question for the groupXS interview process",
+  "main": "index.js",
+  "author": "Michael Farník",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "start": "node index",
+    "debug": "node inspect index"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
